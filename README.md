@@ -15,6 +15,7 @@ Multi-class classification with image data and text data
 
 - Classifying article text data into 5 different categories.
 - Used text data from BBC.
+
   (1) Simple_text_classification.py
   - Used Keras pre-processing
   - Used Keras models
