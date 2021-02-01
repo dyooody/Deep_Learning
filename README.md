@@ -1,5 +1,5 @@
 # DeepLearning
-self project with using Tensorflow and Keras
+Deep learning project with TensorFlow and Keras
 
 
 Multi-class classification with image data and text data 
