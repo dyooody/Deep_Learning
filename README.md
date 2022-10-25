@@ -4,23 +4,23 @@ Deep learning project with TensorFlow and Keras
 ## Disease detection project <br/>
 
 From binary classification to multi-class classification<br/>
-> Three different diseases
-> (1) Brain tumor detection
-> (2) Tooth decay detection
-> (3) Lung cancer detection 
+> Three different diseases <br/>
+> (1) Brain tumor detection <br/>
+> (2) Tooth decay detection <br/>
+> (3) Lung cancer detection <br/> 
 
 
 
-Multi-class classification with image data and text data 
+## Multi-class classification with image data and text data <br/>
 
-1. Image Data
+**1. Image Data** <br/>
 
 - Classifying art images into their categories. 5 different categories
 - Art images are collected from wikiart.com
 - First implemented Keras deep learning model from scratch
 - Second implemented Keras deep learning model using VGG16
 
-2. Text Data
+**2. Text Data** <br/>
 
 - Classifying article text data into 5 different categories.
 - Used text data from BBC.
