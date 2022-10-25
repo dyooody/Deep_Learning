@@ -7,8 +7,8 @@ Meningioma
 Non-tumor
 pituitary
 
-Result: 96.7%
-
+Result: 96.7% <br/>
+![brain tumor result image](brain_tumor_result.png)<br/>
 
 **Procedure:** <br/>
 > (1) Resized the images into 224 x 224. <br/>
@@ -26,7 +26,8 @@ Two different classes.
 Cavity
 Non-cavity
 
-Result: 92.8%
+Result: 92.8% <br/>
+![tooth decay result image](tooth_decay_result.png)<br/>
 
 **Procedure:** <br/>
 > (1) Resized to 224 x 224. <br/>
@@ -53,7 +54,9 @@ From here, I used the lung cancer dataset with three different classes.
 Lung benign tissue
 Lung adenocarcinoma
 Lung squamous cell carcinoma
-Result: 98% accuracy
+
+Result: 98% accuracy <br/>
+![lung cancer1 result image](lung_cancer1_result.png)<br/>
 
 **Procedure:** <br/> 
 > (1) The size of the images was 768 x 768 and the number of images in the three classes was 15000. Since the size was too big, reduced the size to 224 x 224. <br/>
@@ -71,7 +74,8 @@ Adeno
 Carci
 Squamos
  
-Result: 99 % accuracy
+Result: 99 % accuracy <br/>
+![lung cancer2 result image](lung_cancer2_result.png)<br/>
 
 **Procedure:** <br/> 
 > (1) Resized the image to 224 x 224. <br/>
