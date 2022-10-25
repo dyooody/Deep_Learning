@@ -47,8 +47,7 @@ For this classification problem, I used two different datasets.
 
 Dataset: lung cancer dataset
 
-1. 
-https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+1. https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
 From here, I used the lung cancer dataset with three different classes. 
 Lung benign tissue
@@ -64,8 +63,7 @@ Result: 98% accuracy
 > (5) Used transfer learning methods to achieve high prediction results. Used VGG16 as a pre-trained model. <br/>
 > (6) Add ReLU as an activation function, and used Adam as an optimizer. <br/>
 
-2. 
-https://www.kaggle.com/code/shadym0hamed/lung-cancer-classification/data
+2. https://www.kaggle.com/code/shadym0hamed/lung-cancer-classification/data
  
 There are four different classes from this dataset.
 Normal
