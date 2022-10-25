@@ -1,6 +1,15 @@
 # DeepLearning
 Deep learning project with TensorFlow and Keras
 
+## Disease detection project <br/>
+
+From binary classification to multi-class classification<br/>
+> Three different diseases
+> (1) Brain tumor detection
+> (2) Tooth decay detection
+> (3) Lung cancer detection 
+
+
 
 Multi-class classification with image data and text data 
 
